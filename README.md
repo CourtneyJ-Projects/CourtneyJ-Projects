@@ -3,7 +3,7 @@
 <h2>💻 IT Development Projects:</h2>
 
 - <b>Powershell Active Directory Practice</b>
-  - [Active Directory Homelab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Homelab](https://github.com/CourtneyJ-Projects/ActiveDirectoryLab/blob/main/README.md)
 
 <h2> 📝Certifications:</h2>
 -<b>Google IT Support Specialist Certification </b>
