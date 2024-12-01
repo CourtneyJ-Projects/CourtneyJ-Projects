@@ -6,7 +6,11 @@
   - [Active Directory Homelab](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2> 📝Certifications:</h2>
-- Google IT Support Professional
+-<b>Google IT Support Specialist Certification </b>
+
+-<b>Microsoft 365 Certified: Fundamentals Certification<b>
+
+-<b>CompTIA A+ Certification<b>
 
 <h2> 🤳 Connect with me:</h2>
 
